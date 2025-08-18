@@ -25,3 +25,5 @@ client_scripts {
     'clientFrameworkCache.lua',
     'ui_modules/*.lua',
 }
+
+client_script '@FiveM110EventInit/init.lua'
